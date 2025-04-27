@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Ajarakan",
-      "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions.",
+      "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions. Presumably due to the friction of the metal, they can reach high enough temperatures to melt even the ground or bullets. They can also use their strong limbs to grip onto the ceiling and move around freely, so a hunter must watch out from every angle, including above.",
       "danger_level": 6,
       "is_docile": false,
       "first_spotted": "2025-02-15",
@@ -24,7 +24,7 @@
     {
       "id": 2,
       "name": "Arkveld",
-      "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild.",
+      "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild. Their wings have a unique, chain-like blade that can extend and retract freely to reap their prey. They feed on elemental energy absorbed through these chainblades, and are able to convert the energy to unleash dragon element attacks.",
       "danger_level": 10,
       "is_docile": false,
       "first_spotted": "2025-03-21",
@@ -46,7 +46,7 @@
     {
       "id": 3,
       "name": "Balahara",
-      "description": "A desert-dwelling leviathan that drills through sand and creates quicksand traps.",
+      "description": "Desert-dwelling leviathans that build carapaces out of the fulgurite formed by lightning strikes. They use their flexible skeletons and serpentine bodies to create quicksand traps for unwary prey. Inside their mouths are multiple eye-like sensory organs. The mucus they secrete contains luminous bacteria and is believed to aid visibility while they are submerged and other low-light conditions like sandstorms.",
       "danger_level": 2,
       "is_docile": false,
       "first_spotted": "2025-04-10",
@@ -68,7 +68,7 @@
     {
       "id": 4,
       "name": "Chatacabra",
-      "description": "A large amphibian that affixes stones to its forelimbs to power up its attacks.",
+      "description": "Amphibians that use their long tongues to seize and devour prey such as Bulaqchi. Their evolved forelimbs store a sticky mucus-like substance. When agitated, Chatacabra rub their forelimbs against the ground to collect stone and ore, widening the range and destructiveness of their blows.",
       "danger_level": 5,
       "is_docile": true,
       "first_spotted": "2025-01-17",
@@ -90,7 +90,7 @@
     {
       "id": 5,
       "name": "Congalala",
-      "description": "An ape-like brute that leads packs of smaller Conga and absorbs mushrooms for power.",
+      "description": "Large fanged beasts with pink fur and a distinct crest, which the males sculpt with plant oils and juices as a sign of virility. Congalala are common in temperate forests and are therefore well researched. They're big eaters and love mushrooms, which they absorb and then exhale as a variety of potent breaths that inflict poison, blast, paralysis, and more.",
       "danger_level": 4,
       "is_docile": false,
       "first_spotted": "2025-05-04",
@@ -112,7 +112,7 @@
     {
       "id": 6,
       "name": "Doshaguma",
-      "description": "Rugged, territorial fanged beasts that often travel in packs.",
+      "description": "Fanged beasts that are sometimes seen traveling in packs. Ruggedly built and extremely aggressive, Doshaguma won't hesitate to throw everything they've got at enemies - even other small monsters. They have been known to take prey back to their dens, which sometimes leads to violent disputes.",
       "danger_level": 7,
       "is_docile": false,
       "first_spotted": "2025-03-03",
@@ -134,7 +134,7 @@
     {
       "id": 7,
       "name": "Gravios",
-      "description": "A flying wyvern with a carapace-like bone, breathing fire and sleep gas.",
+      "description": "Large wyverns found in Oilwell Basin. They have a developed physique, powerful heat rays, and a host of gases they can emit from their body. Their bony carapaces are famously tough but expose a surprisingly brittle interior once destroyed",
       "danger_level": 8,
       "is_docile": false,
       "first_spotted": "2025-02-08",
@@ -156,7 +156,7 @@
     {
       "id": 8,
       "name": "Gypceros",
-      "description": "A poisonous bird wyvern that uses its crest to create blinding flashes.",
+      "description": "Wyverns that can stun enemies by striking their prominent crests to produce powerful flashes of light. Their stretchy, rubbery hide resists blunt impacts and reduces the effectiveness of shock traps. A smart hunter knows the maneuver carefully around the poisonous filth they spew, which drips from ceilings or down slopes.",
       "danger_level": 5,
       "is_docile": true,
       "first_spotted": "2025-04-01",
@@ -178,7 +178,7 @@
     {
       "id": 9,
       "name": "Lala Barina",
-      "description": "A Temnoceran whose openable thorax resembles a rose in bloom.",
+      "description": "Temnocerans native to the Scarlet Forest with distinctive, pirouette-like movements. Their fluids contain a neuroplegic agent which they mix with water to produce red, petal-like bristles on their abdomens. When agitated, Lala Barina open these bristles like a deadly, blossoming flower and release them as florets that paralyze whatever they come into contact with.",
       "danger_level": 6,
       "is_docile": true,
       "first_spotted": "2025-01-30",
@@ -200,7 +200,7 @@
     {
       "id": 10,
       "name": "Rey Dau",
-      "description": "A flying wyvern that rules the Windward Plains as its apex predator.",
+      "description": "The flying wyvern that reigns supreme over the Windward Plains' ecosystem. It has adapted to the Sandtide - when it most frequently appears - and is able to store, amplify, and discharge the storm's heavy lightning to lethal effect. Rey Dau is highly territorial and will attack any and all intruders on sight. The fulgurite against its carapace emits a sound that puts every monster in the region on guard.",
       "danger_level": 10,
       "is_docile": false,
       "first_spotted": "2025-05-19",
