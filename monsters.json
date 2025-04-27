@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "name": "Ajarakan",
+      "description": "Characteristic by their highly developed carapaces, Ajarakan wrap themselves in molten metal that they rub together to heat up and create explosions.",
+      "danger_level": 6,
+      "is_docile": false,
+      "first_spotted": "2025-02-15",
+      "image_url": "https://example.com/images/ajarakan.png",
+      "species": "Fanged Beast",
+      "moveset": [
+        "Shoulder Slam",
+        "Projectile Toss",
+        "Ground Slam",
+        "Lava Shoulder Slam"
+      ],
+      "locale": {
+        "id": 3,
+        "location_name": "Oilwell Basin",
+        "hazards": ["Tar Pits", "Toxic Fumes", "Explosive Geysers"],
+        "weather_inclemency": ["Firespring"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Arkveld",
+      "description": "A flying wyvern that was considered extinct according to documents left behind by the Guild.",
+      "danger_level": 10,
+      "is_docile": false,
+      "first_spotted": "2025-03-21",
+      "image_url": "https://example.com/images/arkveld.png",
+      "species": "Flying Wyvern",
+      "moveset": [
+        "Aerial Dive Maneuver",
+        "Chainblade Assault & Red Lightning Blast",
+        "Chainblade Somersault",
+        "Whipped Chainblade"
+      ],
+      "locale": {
+        "id": 2,
+        "location_name": "Scarlet Forest",
+        "hazards": ["Entangled Rocks", "Vine Trap"],
+        "weather_inclemency": ["Downpour"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Balahara",
+      "description": "A desert-dwelling leviathan that drills through sand and creates quicksand traps.",
+      "danger_level": 2,
+      "is_docile": false,
+      "first_spotted": "2025-04-10",
+      "image_url": "https://example.com/images/balahara.png",
+      "species": "Leviathan",
+      "moveset": [
+        "Tail Thrust",
+        "Bite Attack",
+        "Spit Attack",
+        "Dive Attack"
+      ],
+      "locale": {
+        "id": 1,
+        "location_name": "Windward Plains",
+        "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
+        "weather_inclemency": ["Sandtide"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Chatacabra",
+      "description": "A large amphibian that affixes stones to its forelimbs to power up its attacks.",
+      "danger_level": 5,
+      "is_docile": true,
+      "first_spotted": "2025-01-17",
+      "image_url": "https://example.com/images/chatacabra.png",
+      "species": "Amphibian",
+      "moveset": [
+        "Overhead Smash",
+        "Rush Attack",
+        "Spin Attack",
+        "Dive"
+      ],
+      "locale": {
+        "id": 1,
+        "location_name": "Windward Plains",
+        "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
+        "weather_inclemency": ["Sandtide"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Congalala",
+      "description": "An ape-like brute that leads packs of smaller Conga and absorbs mushrooms for power.",
+      "danger_level": 4,
+      "is_docile": false,
+      "first_spotted": "2025-05-04",
+      "image_url": "https://example.com/images/congalala.png",
+      "species": "Fanged Beast",
+      "moveset": [
+        "Stench Bomb",
+        "Tail Swipe",
+        "Body Slam",
+        "Fury Swipes"
+      ],
+      "locale": {
+        "id": 2,
+        "location_name": "Scarlet Forest",
+        "hazards": ["Entangled Rocks", "Vine Trap"],
+        "weather_inclemency": ["Downpour"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Doshaguma",
+      "description": "Rugged, territorial fanged beasts that often travel in packs.",
+      "danger_level": 7,
+      "is_docile": false,
+      "first_spotted": "2025-03-03",
+      "image_url": "https://example.com/images/doshaguma.png",
+      "species": "Fanged Beast",
+      "moveset": [
+        "2-Arm Slam",
+        "Arm Slam and Throw",
+        "Bite Attack",
+        "Ground Slam"
+      ],
+      "locale": {
+        "id": 1,
+        "location_name": "Windward Plains",
+        "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
+        "weather_inclemency": ["Sandtide"]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Gravios",
+      "description": "A flying wyvern with a carapace-like bone, breathing fire and sleep gas.",
+      "danger_level": 8,
+      "is_docile": false,
+      "first_spotted": "2025-02-08",
+      "image_url": "https://example.com/images/gravios.png",
+      "species": "Flying Wyvern",
+      "moveset": [
+        "Body Roll",
+        "Charge and Slide",
+        "Fireball",
+        "Flame Ring"
+      ],
+      "locale": {
+        "id": 3,
+        "location_name": "Oilwell Basin",
+        "hazards": ["Tar Pits", "Toxic Fumes", "Explosive Geysers"],
+        "weather_inclemency": ["Firespring"]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gypceros",
+      "description": "A poisonous bird wyvern that uses its crest to create blinding flashes.",
+      "danger_level": 5,
+      "is_docile": true,
+      "first_spotted": "2025-04-01",
+      "image_url": "https://example.com/images/gypceros.png",
+      "species": "Bird Wyvern",
+      "moveset": [
+        "Flashbang",
+        "Poisonous Breath",
+        "Poisonous Dash",
+        "Tail Whip"
+      ],
+      "locale": {
+        "id": 4,
+        "location_name": "Iceshard Cliffs",
+        "hazards": ["Brittle Ice Pillar", "Floating Rubble"],
+        "weather_inclemency": ["Frostwinds"]
+      }
+    },
+    {
+      "id": 9,
+      "name": "Lala Barina",
+      "description": "A Temnoceran whose openable thorax resembles a rose in bloom.",
+      "danger_level": 6,
+      "is_docile": true,
+      "first_spotted": "2025-01-30",
+      "image_url": "https://example.com/images/lala_barina.png",
+      "species": "Temnoceran",
+      "moveset": [
+        "3-Step Maneuver",
+        "Bite",
+        "Petal Rain",
+        "Pirouette Spin & Rain"
+      ],
+      "locale": {
+        "id": 5,
+        "location_name": "Ruins of Wyveria",
+        "hazards": ["Vine Trap", "Entangled Rocks", "Lump of Wyrmsbane"],
+        "weather_inclemency": ["Wyvern's Stirring"]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rey Dau",
+      "description": "A flying wyvern that rules the Windward Plains as its apex predator.",
+      "danger_level": 10,
+      "is_docile": false,
+      "first_spotted": "2025-05-19",
+      "image_url": "https://example.com/images/rey_dau.png",
+      "species": "Flying Wyvern",
+      "moveset": [
+        "Lightning Charge",
+        "Charged Smash",
+        "Lightning Burst",
+        "Tail Slam"
+      ],
+      "locale": {
+        "id": 1,
+        "location_name": "Windward Plains",
+        "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
+        "weather_inclemency": ["Sandtide"]
+      }
+    }
+]  
