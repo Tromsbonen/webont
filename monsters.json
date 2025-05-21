@@ -18,7 +18,7 @@
         "id": 3,
         "location_name": "Oilwell Basin",
         "hazards": ["Tar Pits", "Toxic Fumes", "Explosive Geysers"],
-        "weather_inclemency": ["Firespring"]
+        "weather_inclemency": ["Firespring"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(5).png"
       }
     },
@@ -41,7 +41,7 @@
         "id": 2,
         "location_name": "Scarlet Forest",
         "hazards": ["Entangled Rocks", "Vine Trap"],
-        "weather_inclemency": ["Downpour"]
+        "weather_inclemency": ["Downpour"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(4).png"
       }
     },
@@ -64,7 +64,7 @@
         "id": 1,
         "location_name": "Windward Plains",
         "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
-        "weather_inclemency": ["Sandtide"]
+        "weather_inclemency": ["Sandtide"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(2).png"
       }
     },
@@ -87,7 +87,7 @@
         "id": 1,
         "location_name": "Windward Plains",
         "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
-        "weather_inclemency": ["Sandtide"]
+        "weather_inclemency": ["Sandtide"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(2).png"
       }
     },
@@ -110,7 +110,7 @@
         "id": 2,
         "location_name": "Scarlet Forest",
         "hazards": ["Entangled Rocks", "Vine Trap"],
-        "weather_inclemency": ["Downpour"]
+        "weather_inclemency": ["Downpour"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(5).png"
       }
     },
@@ -133,7 +133,7 @@
         "id": 1,
         "location_name": "Windward Plains",
         "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
-        "weather_inclemency": ["Sandtide"]
+        "weather_inclemency": ["Sandtide"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(2).png"
       }
     },
@@ -156,7 +156,7 @@
         "id": 3,
         "location_name": "Oilwell Basin",
         "hazards": ["Tar Pits", "Toxic Fumes", "Explosive Geysers"],
-        "weather_inclemency": ["Firespring"]
+        "weather_inclemency": ["Firespring"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(5).png"
       }
     },
@@ -179,7 +179,7 @@
         "id": 4,
         "location_name": "Iceshard Cliffs",
         "hazards": ["Brittle Ice Pillar", "Floating Rubble"],
-        "weather_inclemency": ["Frostwinds"]
+        "weather_inclemency": ["Frostwinds"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(1).png"
       }
     },
@@ -202,7 +202,7 @@
         "id": 5,
         "location_name": "Ruins of Wyveria",
         "hazards": ["Vine Trap", "Entangled Rocks", "Lump of Wyrmsbane"],
-        "weather_inclemency": ["Wyvern's Stirring"]
+        "weather_inclemency": ["Wyvern's Stirring"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(3).png"
       }
     },
@@ -225,7 +225,7 @@
         "id": 1,
         "location_name": "Windward Plains",
         "hazards": ["Falling Boulders", "Giant Falling Boulder", "Vine Trap"],
-        "weather_inclemency": ["Sandtide"]
+        "weather_inclemency": ["Sandtide"],
         "image_url": "https://raw.githubusercontent.com/Tromsbonen/webont/refs/heads/main/images/1%20(2).png"
       }
     }
